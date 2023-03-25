@@ -1,3 +1,5 @@
+//CSS file 
+import './index.css'
 // routes
 import Router from "./routes";
 // theme
