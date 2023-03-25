@@ -50,3 +50,16 @@ This project is licensed under the MIT license. Please see the LICENSE file for 
 Acknowledgements:
 This project was created with the help of various online resources, including the official documentation for React.js, Redux, and Socket.io. Special thanks to the developers who created these resources and made them freely available to the public.
 
+![mainpage](https://user-images.githubusercontent.com/82415398/227733864-a92a31ac-9392-4ceb-977e-08e8009a62e0.png)
+![createaccountpage](https://user-images.githubusercontent.com/82415398/227733935-2e6d0e5b-0a70-4669-adb5-905936cc57cc.png)
+![loginpage](https://user-images.githubusercontent.com/82415398/227733938-aa3ff537-a1dd-492c-b291-8a2fd149bc3e.png)
+![resetpasswordpage](https://user-images.githubusercontent.com/82415398/227733939-88a07201-9de8-4db9-9b69-26216008dc3a.png)
+![mainpage2](https://user-images.githubusercontent.com/82415398/227733943-e3a66239-3caa-46f4-882b-eedd0103aa0e.png)
+
+
+
+
+
+
+
+
